@@ -25,6 +25,9 @@ import com.example.rqchallenge.employees.models.Employee;
 import com.example.rqchallenge.employees.models.EmployeeResponse;
 import com.example.rqchallenge.employees.models.ListEmployeeResponse;
 
+/**
+ * TODO: Negative test cases are to be done.
+ */
 @SpringBootTest
 class RqChallengeApplicationTests {
 
